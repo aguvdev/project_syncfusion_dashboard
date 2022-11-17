@@ -876,6 +876,7 @@ export const ordersGrid = [
     template: gridOrderImage,
     textAlign: 'Center',
     width: '120',
+    objectFit: 'cover'
   },
   {
     field: 'OrderItems',
