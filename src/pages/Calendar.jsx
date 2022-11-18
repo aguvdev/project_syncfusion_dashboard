@@ -17,6 +17,6 @@ const Calendar = () => {
       </ScheduleComponent>
     </div>
   )
-}
+};
 
-export default Calendar
+export default Calendar;
